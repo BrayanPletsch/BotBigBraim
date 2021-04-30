@@ -14,9 +14,9 @@ const kerang = (prefix, botName, ownerName) => {
   └─ ❏ ${prefix}bugreport
 ◪ *MAKER*
   │
-  ├─ ❏ ${prefix}apakah
-  ├─ ❏ ${prefix}kapankah
-  ├─ ❏ ${prefix}rate
-  └─ ❏ ${prefix}bisakah`
+  ├─ ❏ ${prefix}Whatis
+  ├─ ❏ ${prefix}QuandoÉo
+  ├─ ❏ ${prefix}Avaliar
+  └─ ❏ ${prefix}VocêPode`
 }
 exports.kerang = kerang
